@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Welcome to course Vue</h1>
+        <h1>Welcome to my website</h1>
     </div>
 </template>
 <script>
